@@ -1,4 +1,4 @@
 # hello-world
 ## My first repository
-### Making a few edits
-To commit
+### Making a few more edits
+To commit again
